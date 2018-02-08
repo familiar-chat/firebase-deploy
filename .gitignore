@@ -1,0 +1,11 @@
+# Original
+builded/
+.*.swp
+firebase-debug.log
+
+# Mac
+.DS_Store
+
+# IDE
+.idea/**
+.vscode/**
